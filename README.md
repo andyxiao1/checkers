@@ -1,5 +1,7 @@
 # Checkers App
 
+[Play Here](https://checkers-andyxiao1.netlify.app/)
+
 ## Features
 
 - basic checkers game play: turns, basic moves, jumping over enemies
